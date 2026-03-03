@@ -1,0 +1,15 @@
+# Dependências e artefatos
+node_modules/
+dist/
+build/
+
+# Sistema operacional / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Arquivos temporários
+*.log
+*.tmp
+
